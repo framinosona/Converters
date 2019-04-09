@@ -13,9 +13,7 @@ namespace FormsCommunityToolkit.Converters
         /// Init this instance.
         /// </summary>
         public static void Init()
-        {
-            var time = DateTime.UtcNow;
-        }
+        {}
 
         /// <summary>
         /// Gets or sets the false object.
